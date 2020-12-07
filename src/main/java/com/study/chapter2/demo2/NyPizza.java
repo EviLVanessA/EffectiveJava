@@ -1,4 +1,4 @@
-package com.study.chapter1.demo2;
+package com.study.chapter2.demo2;
 
 import java.util.Objects;
 

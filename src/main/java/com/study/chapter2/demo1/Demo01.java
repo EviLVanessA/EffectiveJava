@@ -1,6 +1,4 @@
-package com.study.chapter1.demo1;
-
-import java.math.BigInteger;
+package com.study.chapter2.demo1;
 
 /**
  * 1.考虑使用静态工厂方法替代构造方法

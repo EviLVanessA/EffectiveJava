@@ -1,10 +1,11 @@
-package com.study.chapter1.demo2;
+package com.study.chapter2.demo2;
 
 import java.util.EnumSet;
 import java.util.Objects;
 import java.util.Set;
 
 /**
+ * 遇到多个构造器参数时要考虑使用构建器
  * @author jianghui
  * @date 2020-11-30 17:51
  */
